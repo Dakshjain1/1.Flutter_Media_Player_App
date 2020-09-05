@@ -1,4 +1,4 @@
-# App6_Audio_Player
+# Media_Player
 
 A new Flutter project.
 
